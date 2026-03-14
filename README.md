@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Operator Theory
 
-Repository for "Template".
+Repository for "Operator Theory".
 
 
 ## Use instructions
